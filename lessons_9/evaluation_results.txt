@@ -1,0 +1,20 @@
+Model: epoch_1.pth
+Average PSNR: 4.0212, Average SSIM: 0.0821
+Model: epoch_2.pth
+Average PSNR: 5.9073, Average SSIM: 0.1645
+Model: epoch_3.pth
+Average PSNR: 7.7428, Average SSIM: 0.2232
+Model: epoch_4.pth
+Average PSNR: 8.7818, Average SSIM: 0.2849
+Model: epoch_5.pth
+Average PSNR: 10.9449, Average SSIM: 0.3916
+Model: epoch_6.pth
+Average PSNR: 10.6691, Average SSIM: 0.4109
+Model: epoch_7.pth
+Average PSNR: 12.2734, Average SSIM: 0.5597
+Model: epoch_8.pth
+Average PSNR: 11.6177, Average SSIM: 0.4153
+Model: epoch_9.pth
+Average PSNR: 11.6901, Average SSIM: 0.4981
+Model: epoch_10.pth
+Average PSNR: 10.9238, Average SSIM: 0.4517
